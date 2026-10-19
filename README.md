@@ -75,21 +75,7 @@ Test cases include:
 ## Tools
 
 - VHDL
-- ASUsim
+- GTKwave
+- GHDL
+- Yosys
 - Git and GitHub
-
-## Learning Objectives
-
-- Structural hardware description in VHDL
-- Component instantiation and port mapping
-- Multiplexer-based control selection
-- Arithmetic and logic circuit integration
-- Testbench design and simulation-based verification
-
-## Author
-
-Created as a digital design project while studying Computer and Artificial Intelligence Engineering.
-
-## Project Status
-
-Educational project. Verification and further improvements are ongoing.
