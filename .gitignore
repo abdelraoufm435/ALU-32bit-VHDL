@@ -1,0 +1,16 @@
+
+# Compiled simulation libraries
+work/
+*.cf
+*.o
+*.obj
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
